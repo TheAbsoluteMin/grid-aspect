@@ -71,7 +71,7 @@ After printing and assembling the parts to see how they fit with each other, I f
 <img width="4000" height="3000" alt="20260724_234541" src="https://github.com/user-attachments/assets/4db08b4e-d66e-4add-82e0-4585280e29a0" />
 <img width="3000" height="4000" alt="20260724_234509" src="https://github.com/user-attachments/assets/d6bef2de-e9fc-4edd-a849-5fdee3473387" />
 
-However, there were some slight difficulty in the gear connections with the motors, so I decided to clean up the CAD parts a bit, and I added some color to the design! Also, I decided to include a Raspberry Pi Camera Model 3 and a Raspberry Pi 4, so I could possibly allow the pen plotter to take pictures and draw in real time!
+However, there was some slight difficulty in the gear connections with the motors, so I decided to clean up the CAD parts a bit, and I added some color to the design! Also, I decided to include a Raspberry Pi Camera Model 3 and a Raspberry Pi 4, so I could possibly allow the pen plotter to take pictures and draw in real time!
 
 <img width="1474" height="979" alt="Screenshot 2026-07-24 131920" src="https://github.com/user-attachments/assets/02e672c1-7ea3-4ce2-a68f-865883ff15ff" />
 
